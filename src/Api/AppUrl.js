@@ -1,0 +1,4 @@
+export default class AppUrl {
+    static BaseURL ='http://localhost:8082/api/'
+    static token = '56082dbb37559a5bd599e6c73b0aef1870aafafbf253a66c29b8440541362b115320eb1e98434b636b61f7fa88a246f876e22f7ba9695ff715f25e195e94ea5f1fc7819e014aed9d53a8ae3631171c3f721bb7208774a5680a5634709e23e075beef8a4c0dc0e4b17e24b74296b4e3dd602c7b911fde6ff4b04ec3001ab77c4f'
+    }
